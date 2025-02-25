@@ -8,7 +8,7 @@ body{
    
 }
     #navbar{
-    background-color: rgb(32, 138, 11);
+    background-color: rgb(10, 43, 3);
     padding: 10px;
     text-align: center;
     display:flex;
@@ -19,12 +19,12 @@ body{
 
 #rodape{
     padding: 10px;
-    background-color:rgb(8, 83, 24);
+    background-color:rgb(6, 56, 17);
     text-align:center; 
     padding: 50px;  
 }
     #noticias{
-    background-color: rgb(7, 129, 38);
+    background-color: rgb(3, 54, 16);
     padding: 10px;
 }
 #icon{
