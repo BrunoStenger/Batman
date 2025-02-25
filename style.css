@@ -3,12 +3,12 @@ body{
     margin:0;
     margin:0;
     color:rgb(255, 255, 255);
-    background-color: rgb(129, 16, 16) ;
+    background-color: rgb(7, 68, 22) ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    
 }
     #navbar{
-    background-color: rgb(21, 13, 97);
+    background-color: rgb(32, 138, 11);
     padding: 10px;
     text-align: center;
     display:flex;
@@ -19,12 +19,12 @@ body{
 
 #rodape{
     padding: 10px;
-    background-color:rgb(22, 8, 83);
+    background-color:rgb(8, 83, 24);
     text-align:center; 
     padding: 50px;  
 }
     #noticias{
-    background-color: rgb(26, 7, 92);
+    background-color: rgb(7, 129, 38);
     padding: 10px;
 }
 #icon{
